@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "twitter-scraper-lite"
-version = "1.0.0"
+version = "1.1.0"
 description = "The fastest and cheapest way to scrape tweets from X (Twitter). Wraps the Apify Twitter Scraper Lite actor with a developer-friendly API."
 readme = "README.md"
 license = {text = "MIT"}
