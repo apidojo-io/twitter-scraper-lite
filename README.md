@@ -1,4 +1,4 @@
-# x-scraper
+# Twitter Scraper Lite (x-scraper)
 
 The fastest and cheapest way to scrape tweets from X (Twitter). Battle-tested infrastructure used by tens of thousands of customers including enterprise teams.
 
